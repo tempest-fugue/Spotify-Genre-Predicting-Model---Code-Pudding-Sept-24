@@ -4,6 +4,8 @@
 ## Description
 This project builds a machine learning model that predicts the genre of a song using various metrics provided by Spotify. The goal is to create a predictive model that can  classify the genre of a song based on its features such as danceability, energy, tempo, and other characteristics.  Spotify API is used to retrieve these song metrics for a new track and make predictions on new songs.
 
+Current up-to-date models is present in the file SpotifyGenrePredictiveModel_Edits (1).ipynb and the README refers to that version. Other versions are recorded here and represent collaborations and updates to the joint repo in Zoey Espinoza's care. 
+
 ## Setup Instructions:
 1. Clone the repository:
     ```bash
